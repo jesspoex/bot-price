@@ -1,1 +1,1 @@
-baca dulu readme sebelum memulai
+kasih bintang dulu napa sebelum memulai 😆😆
