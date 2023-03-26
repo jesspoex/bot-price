@@ -3,7 +3,7 @@ const express = require("express")
 const server = express()
 
 server.all("/", (req, res) => {
-  res.send(`BOT IS RUNNING`)
+  res.send(`BOT HURUNG`)
 })
 
 function keepAlive() {
