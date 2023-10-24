@@ -44,5 +44,5 @@ client.once('ready', ()=>{
 
 //keepAlive();
 
-client.login(process.env."MTE0NTU4MzI0MDY1MzA0NTg5NA.GuzUHd.6t49nPoBpwigWe9dDVOVZlvEOnQ32qkn5Qfc1Y")
+client.login(process."MTE0NTU4MzI0MDY1MzA0NTg5NA.GuzUHd.6t49nPoBpwigWe9dDVOVZlvEOnQ32qkn5Qfc1Y")
 
