@@ -44,5 +44,5 @@ client.once('ready', ()=>{
 
 //keepAlive();
 
-client.login(process.env.BOT_TOKEN);
+client.login(process.env.BOT_TOKEN;)
 
