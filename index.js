@@ -19,7 +19,7 @@ const inputs={
   
   TOKEN_SYMBOL: "WOLF",
 
-  WATCHING: "WOLF"  //Change string to define "WATCHING" text.
+  WATCHING: "WOLF SOLANA"  //Change string to define "WATCHING" text.
 };
 
 //-------------------------------------------------------------
