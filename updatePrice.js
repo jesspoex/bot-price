@@ -54,7 +54,7 @@ async function fetchPrice(symbol){
 async function updateBot(inputs, client){
 
   try{
-    let guild=client.guilds.cache.get(process.1134089193195315203)
+    let guild=client.guilds.cache.get(process.env.GUILD_ID)
 
     let member = guild.members.cache.get(client.user.id)
   
