@@ -15,11 +15,11 @@ const inputs={
   
   USE_COINGECKO_PRICING: true, //If USE_COINGECKO_PRICING: false, the bot will use Jupiter Aggregator pricing (Solanatokens only)
 
-  TOKEN_NAME: "WOLF SOLANA", //REQUIRED for Coingecko pricing.  Must match coingecko coin URL name: e.g. solana for https://www.coingecko.com/en/coins/solana. 
+  TOKEN_NAME: "wolf-solana", //REQUIRED for Coingecko pricing.  Must match coingecko coin URL name: e.g. solana for https://www.coingecko.com/en/coins/solana. 
   
   TOKEN_SYMBOL: "WOLF",
 
-  WATCHING: "WOLF SOLANA"  //Change string to define "WATCHING" text.
+  WATCHING: "wolf-solana"  //Change string to define "WATCHING" text.
 };
 
 //-------------------------------------------------------------
@@ -44,5 +44,5 @@ client.once('ready', ()=>{
 
 //keepAlive();
 
-client.login(process.env.BOT_TOKEN;)
+client.login(process.env.BOT_TOKEN)
 
